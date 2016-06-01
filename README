@@ -1,7 +1,7 @@
-darkcoin-seeder
+dash-seeder
 ===============
 
-Darkcoin-seeder is a crawler for the Darkcoin network, which exposes a list
+dash-seeder is a crawler for the Dash network, which exposes a list
 of reliable nodes via a built-in DNS server.
 
 Features:
